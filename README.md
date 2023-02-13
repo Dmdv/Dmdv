@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmdv
 - 👀 I’m interested in Rust, C#, Elixir, Machine Learning, building exchanges and crypto, Cyber security with Red Teams
 - 🌱 I’m currently learning Quant development 
-- 💞️ I’m looking to collaborate on projects in Finance domain
+- 💞️ I’m looking to collaborate on projects in Finances, Fintech, Blockchain, trading, etc...
 - 📫 How to reach me ...
 
 <!---
