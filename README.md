@@ -2,7 +2,6 @@
 - 👀 I’m interested in Rust, C#, Elixir, Machine Learning, building exchanges and crypto, Cyber security with Red Teams
 - 🌱 I’m currently learning Quant development, developing CosmoWasm
 - 💞️ I’m looking to collaborate on projects in Finances, Fintech, Blockchain, trading, Web3
-- 📫 How to reach me - 
 
 <!---
 Dmdv/Dmdv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
