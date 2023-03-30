@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dmdv
+- 👋 Hi, I’m @dmdv
 - 👀 I’m interested in Rust, Golang, C++, C#, Elixir, Machine Learning, building exchanges and crypto, cyber security with Red Teams
 - ⛓️ In blockchain my interest is CosmoWasm and NEAR protocol
 - 🌱 I’m currently learning Quant development, developing CosmoWasm
-- 💞️ I’m looking to collaborate on projects in Finances, Fintech, Blockchain, trading, Web3
+- 💞️ Collaborating on projects in Finances, Fintech, Blockchain, Trading, Web3
 
 <!---
 Dmdv/Dmdv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
