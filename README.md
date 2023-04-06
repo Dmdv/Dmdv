@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmdv
 - 👀 I’m interested in Rust, Golang, C++, C#, Elixir, Machine Learning, building exchanges and crypto, cyber security with Red Teams
-- ⛓️ In blockchain my interest is CosmoWasm and NEAR protocol
+- ⛓️ In blockchain my interest is CosmoWasm, NEAR protocol, Halo2 ZKP, Drift Protocol
 - 🌱 I’m currently learning Quant development, developing CosmoWasm
 - 💞️ Collaborating on projects in Finances, Fintech, Blockchain, Trading, Web3
 
