@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dmdv
-- Currently, I develop CosmodSDK, CosmWasm blockchain applications
+- Exchange development, HFT and quant dev.
+- CosmodSDK, CosmWasm blockchain development.
 - 👀 I work in Rust, Golang, C++, C#
 - I'm interested in Elixir, Machine Learning, building exchanges and crypto, cyber security
 - ⛓️ In blockchain my interest is CosmoWasm, NEAR protocol, Halo2 ZKP, Drift Protocol
