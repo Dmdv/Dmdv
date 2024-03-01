@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dmdv
+- 👋 Hi, I’m Dmitry
 - Exchange development, HFT and quant dev.
 - CosmodSDK, CosmWasm blockchain development.
-- 👀 I work in Rust, Golang, C++, C#
-- I'm interested in Elixir, Machine Learning, building exchanges and crypto, cyber security
+- 👀 I'm profficient with Rust, Golang, C++, C#
+- Also I take pleasure in studying Elixir, Machine Learning, building exchanges and crypto, cyber security
 - ⛓️ In blockchain my interest is CosmoWasm, NEAR protocol, Halo2 ZKP, Drift Protocol
 - 🌱 I’m currently learning Quant development, developing CosmoWasm
 - 💞️ Collaborating on projects in Finances, Fintech, Blockchain, Trading, Web3
