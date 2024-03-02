@@ -9,7 +9,7 @@ I'm Dmitry. Experienced developer with 20 years of everyday production grade dev
 ## Skills
 - 👨‍💻 Rust, C#, Go, C++, Python, Solidity, some Elixir
 - ⚡️ Trading bots development
-- ⛓️ CosmodSDK, CosmWasm, Ethereum
+- ⛓️ Cosmos SDK, CosmWasm, Ethereum
 - 🌪️ Terraform, Kubernetes, Docker
 - ⚙️ Databases...
 + a lot more :D
