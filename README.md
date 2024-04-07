@@ -1,7 +1,8 @@
 ## Hey! 👋
 I'm Dmitry. Experienced developer with 20 years of everyday production grade development.
 
-- 👨‍💻 Working at token exchange backed by real physical assets. 
+- 🍏 Working on omnichannels in Cosmos based blockchain
+- 👨‍💻 Worked at token exchange backed by real physical assets. 
 - 🧭 Developing proprietary exchange and matching engine.
 - 🌱 Redefining infrastructure and take pleasure in coding using Golang, Rust, C++, C#
 + a lot more ;)
