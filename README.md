@@ -1,14 +1,17 @@
 ## Hey! 👋
-I'm Dmitry. Experienced developer with 20 years of everyday production grade development.
+I'm Dmitry. Experienced developer with 20 years of everyday production grade development
 
 - 🍏 Working on omnichannels in Cosmos based blockchain
-- 👨‍💻 Worked at token exchange backed by real physical assets. 
-- 🧭 Developing proprietary exchange and matching engine.
+- 🥭 Responsible for backend development using Go, Rust
+- 🎾 Brushing up my skills in C++23
+- 📚 Study quant development
+- 👨‍💻 Worked at token exchange backed by real physical assets
+- 🧭 Developing proprietary exchange and matching engine
 - 🌱 Redefining infrastructure and take pleasure in coding using Golang, Rust, C++, C#
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 Rust, C#, Go, C++, Python, Solidity, some Elixir
+- 👨‍💻 Rust, Go, C++, C#, Python, Solidity, some Elixir
 - ⚡️ Trading bots development
 - ⛓️ Cosmos SDK, CosmWasm, Ethereum
 - 🌪️ Terraform, Kubernetes, Docker
