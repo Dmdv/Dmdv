@@ -31,8 +31,8 @@ I'm Dmitry. Experienced developer with 20 years of everyday production grade dev
 - Fintech
 - Exchanges
 
-## Interests
-👀 Machine learning, NEAR protocol, Halo2 ZKP, Drift Protocol, Cyber Security
+## Feeling curious about
+👀 NEAR protocol, Halo2 ZKP, Drift Protocol, Cyber Security
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ddyachkov)
