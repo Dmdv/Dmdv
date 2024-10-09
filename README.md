@@ -3,11 +3,12 @@ I'm Dmitry. Experienced developer with 20 years of everyday production grade dev
 
 ### A few facts about me
 - I have passion about building `exchanges` and working on low-latency infrastructure.
-- A take passion in studying `Financial Engineering`.
+- Building trading robots and strategies.
+- I take passion in studying `Financial Engineering`.
 - And trading software
 
 ### What I usually do
-- 🥭 Responsible for backend development using Go, Rust, C#
+- 🥭 Backend development using Go, Rust, C++, C#
 - 🎾 Brushing up my skills in C++23
 - 📚 Study quant development
 - 👨‍💻 Worked at token exchange backed by real physical assets
