@@ -1,19 +1,16 @@
 ## Hey! 👋
 With 20 years in backend and 5 years in blockchain development, I've dedicated my career to building robust financial platforms and blockchain
 
-• Blockchain development
-• Developing trading infrastructure for trading platform
-• Developing systematic trading strategies, and trading bots
-• Strong hands on experience in C++ 17 and above
-• Previous experience of building and managing a trading platform
-• Exploring new trading opportunities
-• Experience with low latency systems, high-frequency trading, and
-real-time financial applications
-• Familiar with market data protocols (FIX, ITCH, OUCH), developed
-FIX protocol client for a exchange
-• Familiar with Options Volatility and Pricing
-• Developed messaging post trade system for large crypto
-exchange
+- Blockchain development
+- Developing trading infrastructure for trading platform
+- Developing systematic trading strategies, and trading bots
+- Strong hands on experience in C++ 17 and above
+- Previous experience of building and managing a trading platform
+- Exploring new trading opportunities
+- Experience with low latency systems, high-frequency trading, and real-time financial applications
+- Familiar with market data protocols (FIX, ITCH, OUCH), developed FIX protocol client for a exchange
+- Familiar with Options Volatility and Pricing
+- Developed messaging post trade system for large crypto exchange
 
 ### A few facts about me
 - I have passion about building `exchanges` and working on low-latency infrastructure.
