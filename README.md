@@ -4,11 +4,11 @@ With 20 years in backend and 5 years in blockchain development, I've dedicated m
 - Blockchain development
 - Developing trading infrastructure for trading platform
 - Developing systematic trading strategies, and trading bots
-- Strong hands on experience in C++ 17 and above
+- Strong hands-on experience in C++ 17 and above
 - Previous experience of building and managing a trading platform
 - Exploring new trading opportunities
 - Experience with low latency systems, high-frequency trading, and real-time financial applications
-- Familiar with market data protocols (FIX, ITCH, OUCH), developed FIX protocol client for a exchange
+- Familiar with market data protocols (FIX, ITCH, OUCH)
 - Familiar with Options Volatility and Pricing
 - Developed messaging post trade system for large crypto exchange
 
@@ -32,7 +32,7 @@ With 20 years in backend and 5 years in blockchain development, I've dedicated m
 - 👨‍💻 Rust, Go, C++, C#, Python, Solidity, some Elixir
 - ⚡️ Trading bots development
 - Indexing services for Ethereum, Solana, Cosmos
-- ⛓️ Cosmos SDK, CosmWasm, Ethereum
+- ⛓️ Solana, Cosmos SDK, CosmWasm, Ethereum
 - 🌪️ Terraform, Kubernetes, Docker
 - ⚙️ Databases...
 + a lot more :D
