@@ -12,6 +12,12 @@ With 20 years in backend and 5 years in blockchain development, I've dedicated m
 - Familiar with Options Volatility and Pricing
 - Developed messaging post trade system for large crypto exchange
 
+## Researching
+- NEAR protocol
+- Drift Protocol
+- Babylon
+- BTC Staking
+
 ### A few facts about me
 - I have passion about building `exchanges` and working on low-latency infrastructure.
 - Building trading robots and strategies.
