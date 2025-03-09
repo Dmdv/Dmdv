@@ -1,5 +1,5 @@
 ## Hey! 👋
-With 20 years in backend and 5 years in blockchain development, I've dedicated my career to building robust financial platforms and blockchain
+With 15 years in backend and 5 years in blockchain development, I've dedicated my career to building robust financial platforms and blockchain
 
 - Blockchain development
 - Developing trading infrastructure for trading platform
