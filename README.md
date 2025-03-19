@@ -1,5 +1,6 @@
 ## Hey! 👋
-With 15 years in backend and 5 years in blockchain development, I've dedicated my career to building robust financial platforms and blockchain
+With 15 years in backend and 5 years in blockchain development, I've dedicated my career to building robust financial platforms and blockchain.
+I'm driven by curiosity and it didn't kill me yet.
 
 - Blockchain development
 - Developing trading infrastructure for trading platform
@@ -25,7 +26,8 @@ With 15 years in backend and 5 years in blockchain development, I've dedicated m
 - And trading software
 
 ### What I usually do
-- 🥭 Backend development using Go, Rust, C++, C#
+- 🥭 Backend development using Go, Rust, C++ (I have 15y C# but it's so random nowdays)
+- ⚠️ And YES, all this skills are hands-on
 - 🎾 Brushing up my skills in C++23
 - 📚 Study quant development
 - 👨‍💻 Worked at token exchange backed by real physical assets
