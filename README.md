@@ -2,7 +2,7 @@
 With 15 years in backend and 5 years in blockchain development, I've dedicated my career to building robust financial platforms and blockchain.  
 I'm driven by curiosity and it didn't kill me yet.
 
-- Blockchain development
+- Blockchain and protocols development 
 - Developing trading infrastructure for trading platform
 - Developing systematic trading strategies, and trading bots
 - Strong hands-on experience in C++ 17 and above
