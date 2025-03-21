@@ -37,7 +37,7 @@ I'm driven by curiosity and it didn't kill me yet.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 Rust, Go, C++, C#, Python, Solidity, some Elixir
+- 👨‍💻 Rust, Go, C++, C#, Python, Solidity
 - ⚡️ Trading bots development
 - Indexing services for Ethereum, Solana, Cosmos
 - ⛓️ Solana, Cosmos SDK, CosmWasm, Ethereum
