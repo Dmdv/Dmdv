@@ -1,10 +1,10 @@
 ## Hey! 👋
 With 15 years in backend and 5 years in blockchain development, I've dedicated my career to building robust financial platforms and blockchain.  
-I'm driven by curiosity and it didn't kill me yet.
 
-- Blockchain and protocols development 
-- Developing trading infrastructure for trading platform
-- Developing systematic trading strategies, and trading bots
+- Ultra-low latency infrastructure
+- Blockchain and protocols development
+- Trading infrastructure
+- Systematic trading strategies, and trading bots
 - Strong hands-on experience in C++ 17 and above
 - Previous experience of building and managing a trading platform
 - Exploring new trading opportunities
@@ -16,7 +16,7 @@ I'm driven by curiosity and it didn't kill me yet.
 ## Researching
 - NEAR protocol
 - Drift Protocol
-- Babylon
+- Solana
 - BTC Staking
 
 ### A few facts about me
@@ -26,11 +26,10 @@ I'm driven by curiosity and it didn't kill me yet.
 - And trading software
 
 ### What I usually do
-- 🥭 Backend development using Go, Rust, C++ (I have 15y C# but it's so random nowdays)
-- ⚠️ And YES, all this skills are hands-on
+- 🥭 Backend development using Rust, C++, Go (I have 15y C# but it's so random nowdays)
 - 🎾 Brushing up my skills in C++23
 - 📚 Study quant development
-- 👨‍💻 Worked at token exchange backed by real physical assets
+- 👨‍💻 Developing ultra-low latency infrastructure
 - 👨‍💻 Worked at top first cryptocurrency exchange in Hong Kong 
 - 🧭 Developing proprietary exchange and matching engine
 - 🌱 Redefining infrastructure and take pleasure in coding using Golang, Rust, C++, C#
