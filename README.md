@@ -14,10 +14,10 @@ With 15 years in backend and 5 years in blockchain development, I've dedicated m
 - Developed messaging post trade system for large crypto exchange
 
 ## Researching
+- MEV
 - NEAR protocol
 - Drift Protocol
 - Solana
-- BTC Staking
 
 ### A few facts about me
 - I have passion about building `exchanges` and working on low-latency infrastructure.
