@@ -6,6 +6,7 @@ I've dedicated my career to building robust financial platforms and blockchain.
 - Blockchain and protocols development
 - Trading infrastructure
 - Systematic trading strategies, and trading bots
+- Rust, ZIG development
 - Strong hands-on experience in C++ 17 and above
 - Previous experience of building and managing a trading platform
 - Exploring new trading opportunities
@@ -27,7 +28,7 @@ I've dedicated my career to building robust financial platforms and blockchain.
 - And trading software
 
 ### What I usually do
-- 🥭 Backend development using Rust, C++, Go (I have 15y C# but it's so random nowdays)
+- 🥭 Backend development using Rust, C++, ZIG, Go (I have 15y C# but it's rare now)
 - 🎾 Brushing up my skills in C++23
 - 📚 Study quant development
 - 👨‍💻 Developing ultra-low latency infrastructure
@@ -37,7 +38,7 @@ I've dedicated my career to building robust financial platforms and blockchain.
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 Rust, Go, C++, C#, Python, Solidity
+- 👨‍💻 Rust, Go, C++, ZIG, C#, Python, Solidity
 - ⚡️ Trading bots development
 - Indexing services for Ethereum, Solana, Cosmos
 - ⛓️ Solana, Cosmos SDK, CosmWasm, Ethereum
