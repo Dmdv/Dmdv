@@ -1,64 +1,24 @@
-## Hey! 👋
-With 23 years in backend and 5 years in blockchain development, 
-I've dedicated my career to building robust financial platforms and blockchain.  
+## Dmitry Dyachkov — low-latency systems & trading infrastructure
 
-- Ultra-low latency infrastructure
-- Blockchain and protocols development
-- Trading infrastructure
-- Systematic trading strategies, and trading bots
-- Rust, ZIG development
-- Strong hands-on experience in C++ 17 and above
-- Previous experience of building and managing a trading platform
-- Exploring new trading opportunities
-- Experience with low latency systems, high-frequency trading, and real-time financial applications
-- Familiar with market data protocols (FIX, ITCH, OUCH)
-- Familiar with Options Volatility and Pricing
-- Developed messaging post trade system for large crypto exchange
+Hong Kong · C++ · Rust · Zig · Go
 
-## Researching
-- MEV
-- NEAR protocol
-- Drift Protocol
-- Solana
+I build trading and exchange infrastructure: matching engines, market data pipelines and post-trade messaging, including at a leading crypto exchange in Hong Kong. Outside work I build things to see how fast they can really go, and measure them honestly.
 
-### A few facts about me
-- I have passion about building `exchanges` and working on low-latency infrastructure.
-- Building trading robots and strategies.
-- I take passion in studying `Financial Engineering`.
-- And trading software
+### What I'm working on now
+- **[market-maker-proto](https://github.com/Dmdv/market-maker-proto)**: a C++20 mock exchange plus a Python market-making client over WebSocket, with a latency lab built in. It uses coordinated-omission-aware benchmarks, exact-rank percentiles and peer-audited runs.
+- **[hft-asm-l2-conflator](https://github.com/Dmdv/hft-asm-l2-conflator)**: an L2 order-book conflator written in AArch64 assembly, with an exclusive-shard pipeline, NEON VWAP and SPSC rings.
+- **[nanosecond-stream-benchmark](https://github.com/Dmdv/nanosecond-stream-benchmark)**: zero-copy packet streaming and parsing, the same task in C++23, Rust, Zig 0.16 and OCaml 5, benchmarked head to head.
+- **[async-worker-pool_zig](https://github.com/Dmdv/async-worker-pool_zig)**: a lock-free async worker pool in Zig 0.16, with a zero-CAS SPSC ring (65M ops/s), comptime arenas and SIMD. There's also a **[C11 + Rust FFI version](https://github.com/Dmdv/async-worker-pool)** with zero-copy claim/commit and sub-microsecond latency.
+- **[cpp26-systems-stack](https://github.com/Dmdv/cpp26-systems-stack)**: a C++26 systems playground covering async I/O, parallelism, JSON and RPC (Asio, Beast, stdexec, TBB, simdjson, gRPC).
+- **[review-gate](https://github.com/Dmdv/review-gate)**: a GitHub Action that enforces strict PR review. It requires a quorum of review bots, resolved threads and green CI, with no bypass.
 
-### What I usually do
-- 🥭 Backend development using Rust, C++, ZIG, Go (I have 15y C# but it's rare now)
-- 🎾 Brushing up my skills in C++23
-- 📚 Study quant development
-- 👨‍💻 Developing ultra-low latency infrastructure
-- 👨‍💻 Worked at top first cryptocurrency exchange in Hong Kong 
-- 🧭 Developing proprietary exchange and matching engine
-- 🌱 Redefining infrastructure and take pleasure in coding using Golang, Rust, C++, C#
-+ a lot more ;)
+### Background
+- I've spent 23 years in backend engineering, the last decade in fintech and trading, and 5 years in blockchain.
+- I've built exchange components (a proprietary matching engine, FIX/ITCH/OUCH connectivity) and post-trade messaging for a large crypto exchange.
+- In blockchain I've built Ethereum, Solana and Cosmos indexers, CosmWasm and Solidity contracts, and trading bots.
+- My infrastructure stack is Kubernetes, Terraform and Docker. I wrote C# for 15 years and Python is still everyday glue.
 
-## Skills
-- 👨‍💻 Rust, Go, C++, ZIG, C#, Python, Solidity
-- ⚡️ Trading bots development
-- Indexing services for Ethereum, Solana, Cosmos
-- ⛓️ Solana, Cosmos SDK, CosmWasm, Ethereum
-- 🌪️ Terraform, Kubernetes, Docker
-- ⚙️ Databases...
-+ a lot more :D
+### Currently curious about
+MEV, Solana and Drift Protocol, Halo2 zero-knowledge proofs, and how far Zig can be pushed in hot paths.
 
-## Business domains
-- Quant dev
-- Blockchain development
-- Fintech
-- Exchanges
-
-## Feeling curious about
-👀 NEAR protocol, Halo2 ZKP, Drift Protocol, Cyber Security
-
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/ddyachkov)
-
-<!---
-Dmdv/Dmdv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/ddyachkov)
