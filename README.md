@@ -1,24 +1,11 @@
-## Dmitry Dyachkov — low-latency systems & trading infrastructure
+## Hi, I'm Dmitry 👋
 
-Hong Kong · C++ · Rust · Zig · Go
+I'm a backend engineer based in Hong Kong. For 23 years I've been building systems, the last decade of them in fintech and trading and five years in blockchain.
 
-I build trading and exchange infrastructure: matching engines, market data pipelines and post-trade messaging, including at a leading crypto exchange in Hong Kong. Outside work I build things to see how fast they can really go, and measure them honestly.
+Most of my work is trading and exchange infrastructure: matching engines, market data pipelines, low-latency messaging and post-trade systems, including at a leading crypto exchange in Hong Kong. I care about what happens on the hot path, so I spend a lot of time measuring latency honestly and making it smaller.
 
-### What I'm working on now
-- A C++20 mock exchange plus a Python market-making client over WebSocket, with a latency lab built in. It uses coordinated-omission-aware benchmarks, exact-rank percentiles and peer-audited runs.
-- An L2 order-book conflator written in AArch64 assembly, with an exclusive-shard pipeline, NEON VWAP and SPSC rings.
-- Zero-copy packet streaming and parsing, the same task in C++23, Rust, Zig 0.16 and OCaml 5, benchmarked head to head.
-- A lock-free async worker pool in Zig 0.16, with a zero-CAS SPSC ring (65M ops/s), comptime arenas and SIMD. There's also a C11 + Rust FFI version with zero-copy claim/commit and sub-microsecond latency.
-- A C++26 systems playground covering async I/O, parallelism, JSON and RPC (Asio, Beast, stdexec, TBB, simdjson, gRPC).
-- A GitHub Action that enforces strict PR review. It requires a quorum of review bots, resolved threads and green CI, with no bypass.
+I write mostly C++ and Rust, and more and more Zig. I use Go for services and Python as everyday glue, and I still have 15 years of C# behind me. On the blockchain side I've worked with Ethereum, Solana and Cosmos, building indexers, smart contracts and trading bots.
 
-### Background
-- I've spent 23 years in backend engineering, the last decade in fintech and trading, and 5 years in blockchain.
-- I've built exchange components (a proprietary matching engine, FIX/ITCH/OUCH connectivity) and post-trade messaging for a large crypto exchange.
-- In blockchain I've built Ethereum, Solana and Cosmos indexers, CosmWasm and Solidity contracts, and trading bots.
-- My infrastructure stack is Kubernetes, Terraform and Docker. I wrote C# for 15 years and Python is still everyday glue.
-
-### Currently curious about
-MEV, Solana and Drift Protocol, Halo2 zero-knowledge proofs, and how far Zig can be pushed in hot paths.
+Lately I've been experimenting with modern C++ (C++23/26), lock-free data structures, and comparing how C++, Rust and Zig handle the same low-latency problem. I'm also curious about MEV, Solana DeFi and zero-knowledge proofs.
 
 [LinkedIn](https://www.linkedin.com/in/ddyachkov)
